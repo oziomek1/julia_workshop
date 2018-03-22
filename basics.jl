@@ -34,6 +34,3 @@ function createRectangle()
 end
 
 createRectangle()
-# println("Hello world")
-# x = 3 + 4
-# println(x)
